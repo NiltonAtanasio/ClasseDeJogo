@@ -5,6 +5,9 @@ Projeto desenvolvido como parte do desafio da **DIO (Digital Innovation One)**, 
 Project developed as part of a challenge by **DIO (Digital Innovation One)**, where we created an interactive hero application with custom attacks based on hero type. The project was expanded with a visual interface, hero history, random generation, animations, and sound effects.
 
 ---
+<img width="665" height="899" alt="desafio" src="https://github.com/user-attachments/assets/2a79bf33-dbb9-446d-aadd-39ff5267b9f1" />
+
+---
 
 ## 📌 Sobre o Projeto | About the Project
 
